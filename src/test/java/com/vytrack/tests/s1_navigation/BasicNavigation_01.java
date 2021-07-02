@@ -1,13 +1,8 @@
-package com.vytrack.tests.navigation_01;
+package com.vytrack.tests.s1_navigation;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.util.List;
-import java.util.Set;
 
 public class BasicNavigation_01 {
 
