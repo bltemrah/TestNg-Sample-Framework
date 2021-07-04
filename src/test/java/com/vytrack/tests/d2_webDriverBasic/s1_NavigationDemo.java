@@ -1,10 +1,10 @@
-package com.vytrack.tests.s2_webDriverBasic;
+package com.vytrack.tests.d2_webDriverBasic;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class NavigationDemo {
+public class s1_NavigationDemo {
 
     public static void main(String[] args) throws InterruptedException {
 

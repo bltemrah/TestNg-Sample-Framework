@@ -3,7 +3,6 @@
 .idea
 *.iml
 Selenium-TestNG-Study-Framework.iml
-/Selenium-TestNG-Study-Framework.iml
 .project
 .settings
 /_eclipse/
@@ -42,8 +41,4 @@ buildNumber.properties
 .scala_dependencies
 .worksheet
 .buildpath
-
-# sbteclipse plugin
 .target
-target
-test-output

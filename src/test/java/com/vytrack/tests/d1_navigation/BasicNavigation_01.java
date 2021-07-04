@@ -1,4 +1,4 @@
-package com.vytrack.tests.s1_navigation;
+package com.vytrack.tests.d1_navigation;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
